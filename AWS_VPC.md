@@ -1,0 +1,1 @@
+git commit -m "CHEN-1 Create VPC in AWS"
